@@ -1,0 +1,36 @@
+.myOrders{
+    width: 85vw;
+    margin-left: 13.8%;
+    height: 134vh;
+    padding: 41px;
+    display: flex;
+}
+
+.abtOrders{
+    display: flex;
+    color: #857b7b;
+}
+
+.myOrderIcn{
+    margin-top: 15px;
+    font-size: 28px;
+    margin-right: 10px;
+}
+
+.filterIcn{
+    font-size: 23px;
+}
+
+.refreshIcn{
+    font-size: 23px;
+}
+
+.searchOrder{
+    width: 18.5vw;
+    height: 27px;
+    margin-top: 5px;
+    border-radius: 6px;
+    padding: 5px;
+    border: 2px solid #ccc;
+    color: #ccc;
+}

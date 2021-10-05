@@ -1,0 +1,57 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;
+    background-color: #2fb1ff;
+}
+
+.axiom{
+    display: flex;
+    flex-direction: row;
+    margin-left: 32px;
+}
+
+.axiom-heading{
+    margin-top: 4px;
+    color: #fff;
+}
+
+.ship-heading{
+    margin-top: -19px;
+    color: #fff;
+    font-size: 13px;
+}
+
+.amFlag{
+    width: 25px;
+    height: 25px;
+}
+
+.phoneIcn{
+    font-size: 22px;
+    /* border: 2px solid; */
+    border-radius: 21px;
+    width: 35px;
+    height: 31px;
+    padding-top: 6px;
+    color: #fff;
+    background-color: #6ccbf5;
+}
+
+.contactIcn{
+    font-size: 22px;
+    border-radius: 16px;
+    width: 35px;
+    height: 31px;
+    padding-top: 6px;
+    color: #fff;
+    background-color: #6ccbf5;
+}
+
+.quickBtn{
+    width: 167px;
+    padding: 8px;
+    height: 6vh;
+    font-size: 15px;
+}

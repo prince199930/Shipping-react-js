@@ -1,0 +1,71 @@
+.myDashboard{
+    background-color: #fff;
+    width: 13.5vw;
+    height: 100vh;
+}
+
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.dashboardIcn{
+    font-size: 21px;
+    margin-top: 19px;
+    color: grey;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.ship{
+    display: flex;
+    flex-direction: row;
+}
+
+.shipIcn{
+    font-size: 21px;
+    margin-top: 19px;
+    color: grey;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.booking{
+    display: flex;
+    flex-direction: row;
+}
+
+.bookingIcn{
+    font-size: 21px;
+    margin-top: 19px;
+    color: grey;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.history{
+    display: flex;
+    flex-direction: row;
+}
+
+.historyIcn{
+    font-size: 21px;
+    margin-top: 19px;
+    color: grey;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.setting{
+    display: flex;
+    flex-direction: row;
+}
+
+.settingIcn{
+    font-size: 21px;
+    margin-top: 19px;
+    color: grey;
+    margin-left: 20px;
+    margin-right: 10px;
+}
